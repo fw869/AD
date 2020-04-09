@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Q07v3kjoh5dl8hEnVFwFcw
-! Version: 202004050726
+! Checksum: 0WU8LN0zPynIIZUuNn0qzQ
+! Version: 202004090951
 ! Title: Fanboy's Annoyance List
-! Last modified: 05 Apr 2020 05:51 UTC
+! Last modified: 09 Apr 2020 09:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4837,6 +4837,7 @@ https://cnn.com##.hed_side
 https://nola.com##.helper
 https://sciencenews.cc##.herald-single-sticky
 https://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.hero-container
+https://sciencefocus.com##.highlight
 https://mint.com##.hmenu
 https://businessspectator.com.au##.holder-content-loaded
 https://cnet.com##.holidayPromo
@@ -5329,6 +5330,7 @@ https://thedodo.com##.promote-widgets
 https://reddit.com##.promoted
 https://startpage.com,usatoday.com##.promotion
 https://csmonitor.com##.promotion-tag-p
+https://sciencefocus.com##.promotional-content
 https://nwfdailynews.com##.promotionalmaindiv
 https://givesmehope.com##.publicite
 https://mashable.com##.publisher-bar
@@ -5741,6 +5743,7 @@ https://designntrend.com,fashionnstyle.com,hngn.com,kdramastars.com,kpopstarz.co
 https://infoworld.com##.whitepaper
 https://pcworld.com##.whitepapers
 https://grist.org,motherjones.com,netbooknews.com##.widget
+https://sciencefocus.com##.widget-area-above-footer
 https://libertyunyielding.com##.widget-around-the-web
 https://tokyohive.com##.widget-block
 https://androidauthority.com##.widget-container
@@ -6291,6 +6294,7 @@ https://staradvertiser.com##.breaking-news-signup
 https://inverse.com##.btn--newsletter
 https://washingtonmonthly.com,whitehalljournal.com,woodfordtimes.com##.btn-subscribe
 https://telesurenglish.net##.btnBoletin
+https://sciencefocus.com##.button-cluster-widget
 https://racked.com,theverge.com##.c-action-box
 https://legit.ng##.c-footer-subscribe
 https://gq-magazine.co.uk##.c-infobar-wrapper
@@ -6434,7 +6438,7 @@ https://startribune.com##.gameday
 https://icepop.com##.get-it-first
 https://electronicintifada.net##.get-updates
 https://pulsenews.co.kr##.getnews
-https://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,yellowhammernews.com##.gform_widget
+https://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,wvexplorer.com,yellowhammernews.com##.gform_widget
 https://pressherald.com,undark.org##.gform_wrapper
 https://ghacks.net##.ghacks_ad_code
 https://independent.co.uk,standard.co.uk##.gigya-signup
@@ -6682,6 +6686,7 @@ https://womenonwheels.co.za##.side-form-r
 https://hotelnewsresource.com##.sidebar-block-signup
 https://caribjournal.com##.sidebar-form
 https://wired.com##.sidebar-inview
+https://techgenix.com##.sidebar-optin
 https://fightthenewdrug.org##.sidebar-sign-the-pledge
 https://thesaturdaypaper.com.au##.sidebar-sticky--briefing
 https://food52.com##.sidebar__mailing-list
@@ -7256,6 +7261,7 @@ https://gambling.com###footer-connect-list
 https://instructables.com###footer-findus
 https://bitchmagazine.org###footer-friend-links
 https://walmart.ca###footer-stayintouch
+https://eporner.com###footsocbuttons
 https://foxnewsinsider.com###fox-facebook
 https://foxnewsinsider.com###fox-tweets
 https://thenational.ae###galleryfollow
@@ -9309,6 +9315,7 @@ https://flyscoot.com##.top-bar
 https://skystore.com##.top-notification-container
 https://hankooktire.com##.top_ep_wrap
 https://e-lawresources.co.uk,mabknives.co.uk##.topbarBox
+https://untappd.com##.tos-banner
 https://thomsonreuters.com##.tr-DismissibleBanner
 https://troax.com##.troax-messages
 https://nfumutual.co.uk##.u-bg-padd
@@ -9537,6 +9544,7 @@ https://diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus
 https://therese-moelk.at##.pageup
 https://matratzen.info##.postNavigation
 https://rnd-news.de##.rss
+https://strato.de##.scrollBtn
 https://swz.it##.scroll__top
 https://woxikon.de##.secondary-footer
 https://weinkenner.de##.sib_signup_form
@@ -10195,6 +10203,7 @@ https://morfix.co.il###morfixInstallTB_main
 https://auto.co.il###openButton
 https://gadgety.co.il###subscribefield
 https://globes.co.il##.article_Next_prev_title
+https://gov.il##.cd-top
 https://gadgety.co.il##.facelike
 https://mouse.co.il##.fbox_main
 https://globes.co.il##.footerN_box
@@ -10286,29 +10295,6 @@ https://diningcity.hu,hvg.hu,landrover.hu,napi.hu,nuus.hu##.share
 https://atv.hu,europages.co.hu,hvg.hu##.social
 https://infostart.hu##.topicons
 https://privatbankar.hu##.utilities
-https://martechadvisor.com###subscribe-new-form
-https://merriam-webster.com###subscribe-overlay
-https://e-onec.com###subscribe-wrapper
-https://indy100.com###subscribeIndy100
-https://devisesquare.com###subscribePopupId
-https://wined.co.za###subscribeWrapper
-https://nytimes.com###subscribe_cont
-https://catholicculture.org###subscribe_container
-https://adweek.com###subscribe_content
-https://mediapost.com,weta.org###subscribe_form
-https://diabetesforecast.org###subscribe_main
-https://nytimes.com###subscribe_mobile_cont
-https://creation.com###subscribe_options
-https://novinite.com###subscribe_smn
-https://moneysavingmom.com,unz.com###subscribeform
-https://bizjournals.com###subscriber
-https://forexpeacearmy.com,musictimes.com###subscription
-https://ecnmag.com###subscription-newsletter-mainContent
-https://autointhenews.com###subscriptions
-https://yourtango.com###tango-newsletter-form
-https://techonomy.com###tcnmy-newsletter-modal
-https://greece-is.com###teaser-newsletter
-https://theplaylist.net###text-10
 https://appledaily.com###RHSfacebook
 https://exmoo.com###fixed-wechat
 https://exmoo.com###footer-wechat-container
@@ -10917,6 +10903,7 @@ https://start-nrw.de###cpopup
 https://ruegenwalder.de###csdialogbd
 https://ruegenwalder.de###csdialogmd2
 https://rentalens.ch###dabar
+https://neues-deutschland.de###data-protection
 https://interhyp.de###data-protection__layer
 https://sovd.de###datenschutzfenster
 https://shopwelt.de###dateschutzinfo
@@ -11506,6 +11493,7 @@ https://ilgiornale.it,prezzoforte.it,virgilio.it###bottombar
 https://lacnews24.it###box1
 https://bancacrs.it###boxes
 https://proversi.it###c-agree
+https://cassaforense.it,cfnews.it###cassaforense-cookies
 https://centrometeolombardo.com###cc_div
 https://ecodallecitta.it###contenuto_consenso
 https://spesasicura.com###cook
@@ -11765,6 +11753,7 @@ https://lodz.pl###stpdueckmsg
 https://gazetapolska.pl,gpcodziennie.pl###swsmodal
 https://gazetapolska.pl,gpcodziennie.pl###swsoverlay
 https://gerlach.org.pl###top0info
+https://ekskluzywna.pl###topInfo0
 https://agrolan.pl,e-rutek.pl,filtrosfera.pl,greenmate.pl,mikos.com.pl,negrasport.pl,pcoutlet.pl,perios.pl,silesiasports.eu,sporto.com.pl,srebrnystyl.pl,tashenti.pl,termokubki.com.pl###topInfoContainer0
 https://abc-rc.pl,acom.pl,aleokulary.com,epapierosylodz.pl,herba-farm.pl,ipartworld.pl,jupi24.pl,lunamarket.pl,megadyskont.pl,miadora.pl,negrasport.pl,ostry-sklep.pl,powerflex.pl,scyzoryki.net,sklep-muzyczny.com.pl,sklep.wodna-kraina.pl###topInfoContainer1
 https://areatour.pl,dacter.pl,dlapacjenta.pl,uni-tech.pl###topbar
@@ -12118,6 +12107,7 @@ https://xhamster.com#@#.subscribe-block
 https://humblebundle.com#@#.subscribe-box
 https://oneplus.com,stackexchange.com#@#.subscribe-container
 https://twit.tv#@#.subscribe-panel
+https://batenka.ru#@#.subscribe-popup
 https://wtfast.com#@#.subscribe_box
 https://mos.ru#@#.subscription-block
 https://reddit.com,yesplz.coffee#@#.subscription-box
@@ -14996,6 +14986,7 @@ http://cnn.com##.hed_side
 http://nola.com##.helper
 http://sciencenews.cc##.herald-single-sticky
 http://askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.hero-container
+http://sciencefocus.com##.highlight
 http://mint.com##.hmenu
 http://businessspectator.com.au##.holder-content-loaded
 http://cnet.com##.holidayPromo
@@ -15488,6 +15479,7 @@ http://thedodo.com##.promote-widgets
 http://reddit.com##.promoted
 http://startpage.com,usatoday.com##.promotion
 http://csmonitor.com##.promotion-tag-p
+http://sciencefocus.com##.promotional-content
 http://nwfdailynews.com##.promotionalmaindiv
 http://givesmehope.com##.publicite
 http://mashable.com##.publisher-bar
@@ -15900,6 +15892,7 @@ http://designntrend.com,fashionnstyle.com,hngn.com,kdramastars.com,kpopstarz.com
 http://infoworld.com##.whitepaper
 http://pcworld.com##.whitepapers
 http://grist.org,motherjones.com,netbooknews.com##.widget
+http://sciencefocus.com##.widget-area-above-footer
 http://libertyunyielding.com##.widget-around-the-web
 http://tokyohive.com##.widget-block
 http://androidauthority.com##.widget-container
@@ -16450,6 +16443,7 @@ http://staradvertiser.com##.breaking-news-signup
 http://inverse.com##.btn--newsletter
 http://washingtonmonthly.com,whitehalljournal.com,woodfordtimes.com##.btn-subscribe
 http://telesurenglish.net##.btnBoletin
+http://sciencefocus.com##.button-cluster-widget
 http://racked.com,theverge.com##.c-action-box
 http://legit.ng##.c-footer-subscribe
 http://gq-magazine.co.uk##.c-infobar-wrapper
@@ -16593,7 +16587,7 @@ http://startribune.com##.gameday
 http://icepop.com##.get-it-first
 http://electronicintifada.net##.get-updates
 http://pulsenews.co.kr##.getnews
-http://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,yellowhammernews.com##.gform_widget
+http://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.org,wvexplorer.com,yellowhammernews.com##.gform_widget
 http://pressherald.com,undark.org##.gform_wrapper
 http://ghacks.net##.ghacks_ad_code
 http://independent.co.uk,standard.co.uk##.gigya-signup
@@ -16841,6 +16835,7 @@ http://womenonwheels.co.za##.side-form-r
 http://hotelnewsresource.com##.sidebar-block-signup
 http://caribjournal.com##.sidebar-form
 http://wired.com##.sidebar-inview
+http://techgenix.com##.sidebar-optin
 http://fightthenewdrug.org##.sidebar-sign-the-pledge
 http://thesaturdaypaper.com.au##.sidebar-sticky--briefing
 http://food52.com##.sidebar__mailing-list
@@ -17415,6 +17410,7 @@ http://gambling.com###footer-connect-list
 http://instructables.com###footer-findus
 http://bitchmagazine.org###footer-friend-links
 http://walmart.ca###footer-stayintouch
+http://eporner.com###footsocbuttons
 http://foxnewsinsider.com###fox-facebook
 http://foxnewsinsider.com###fox-tweets
 http://thenational.ae###galleryfollow
@@ -19469,6 +19465,7 @@ http://flyscoot.com##.top-bar
 http://skystore.com##.top-notification-container
 http://hankooktire.com##.top_ep_wrap
 http://e-lawresources.co.uk,mabknives.co.uk##.topbarBox
+http://untappd.com##.tos-banner
 http://thomsonreuters.com##.tr-DismissibleBanner
 http://troax.com##.troax-messages
 http://nfumutual.co.uk##.u-bg-padd
@@ -19697,6 +19694,7 @@ http://diepresse.com,israelheute.com,kleinezeitung.at,manager-magazin.de,servus.
 http://therese-moelk.at##.pageup
 http://matratzen.info##.postNavigation
 http://rnd-news.de##.rss
+http://strato.de##.scrollBtn
 http://swz.it##.scroll__top
 http://woxikon.de##.secondary-footer
 http://weinkenner.de##.sib_signup_form
@@ -20355,6 +20353,7 @@ http://morfix.co.il###morfixInstallTB_main
 http://auto.co.il###openButton
 http://gadgety.co.il###subscribefield
 http://globes.co.il##.article_Next_prev_title
+http://gov.il##.cd-top
 http://gadgety.co.il##.facelike
 http://mouse.co.il##.fbox_main
 http://globes.co.il##.footerN_box
@@ -21055,6 +21054,7 @@ http://start-nrw.de###cpopup
 http://ruegenwalder.de###csdialogbd
 http://ruegenwalder.de###csdialogmd2
 http://rentalens.ch###dabar
+http://neues-deutschland.de###data-protection
 http://interhyp.de###data-protection__layer
 http://sovd.de###datenschutzfenster
 http://shopwelt.de###dateschutzinfo
@@ -21644,6 +21644,7 @@ http://ilgiornale.it,prezzoforte.it,virgilio.it###bottombar
 http://lacnews24.it###box1
 http://bancacrs.it###boxes
 http://proversi.it###c-agree
+http://cassaforense.it,cfnews.it###cassaforense-cookies
 http://centrometeolombardo.com###cc_div
 http://ecodallecitta.it###contenuto_consenso
 http://spesasicura.com###cook
@@ -21903,6 +21904,7 @@ http://lodz.pl###stpdueckmsg
 http://gazetapolska.pl,gpcodziennie.pl###swsmodal
 http://gazetapolska.pl,gpcodziennie.pl###swsoverlay
 http://gerlach.org.pl###top0info
+http://ekskluzywna.pl###topInfo0
 http://agrolan.pl,e-rutek.pl,filtrosfera.pl,greenmate.pl,mikos.com.pl,negrasport.pl,pcoutlet.pl,perios.pl,silesiasports.eu,sporto.com.pl,srebrnystyl.pl,tashenti.pl,termokubki.com.pl###topInfoContainer0
 http://abc-rc.pl,acom.pl,aleokulary.com,epapierosylodz.pl,herba-farm.pl,ipartworld.pl,jupi24.pl,lunamarket.pl,megadyskont.pl,miadora.pl,negrasport.pl,ostry-sklep.pl,powerflex.pl,scyzoryki.net,sklep-muzyczny.com.pl,sklep.wodna-kraina.pl###topInfoContainer1
 http://areatour.pl,dacter.pl,dlapacjenta.pl,uni-tech.pl###topbar
@@ -22256,6 +22258,7 @@ http://xhamster.com#@#.subscribe-block
 http://humblebundle.com#@#.subscribe-box
 http://oneplus.com,stackexchange.com#@#.subscribe-container
 http://twit.tv#@#.subscribe-panel
+http://batenka.ru#@#.subscribe-popup
 http://wtfast.com#@#.subscribe_box
 http://mos.ru#@#.subscription-block
 http://reddit.com,yesplz.coffee#@#.subscription-box
