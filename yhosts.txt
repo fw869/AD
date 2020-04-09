@@ -6749,6 +6749,7 @@
 ||https://adx.adxglobal.com
 ||https://daohang.114so.cn
 ||https://www.114so.cn
+||https://r1.ykimg.com/material##.tp_reccomend_banner
 ||https://sddnserror2.wo.com.cn
 ||https://sddnserror3.wo.com.cn
 ||https://sddnserror4.wo.com.cn
