@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0WU8LN0zPynIIZUuNn0qzQ
-! Version: 202004090951
+! Checksum: pTS4hYgiuNk9Wqu6t1Tz4g
+! Version: 202004100841
 ! Title: Fanboy's Annoyance List
-! Last modified: 09 Apr 2020 09:51 UTC
+! Last modified: 10 Apr 2020 08:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -36,7 +36,7 @@
 ||https://antenna.is^$third-party
 ||https://apester.com^$third-party
 ||https://api.branch.io^$third-party
-||https://api.flattr.com^$third-party
+||https://api.giphy.com^*/related?$third-party
 ||https://api.search.live.net^$third-party
 ||https://api.traq.li^$third-party
 ||https://app.e2ma.net^$third-party
@@ -1329,7 +1329,7 @@
 ||http://antenna.is^$third-party
 ||http://apester.com^$third-party
 ||http://api.branch.io^$third-party
-||http://api.flattr.com^$third-party
+||http://api.giphy.com^*/related?$third-party
 ||http://api.search.live.net^$third-party,domain=~bing.com
 ||http://api.traq.li^$third-party
 ||http://app.e2ma.net^$third-party
@@ -5132,6 +5132,7 @@ https://dnaindia.com##.next-node
 https://guff.com##.next-prev
 https://businesstech.co.za,mybroadband.co.za##.next-previous-article
 https://filehippo.com,slate.com,straitstimes.com##.next-story
+https://shoko.fr##.next-up
 https://usatoday.com##.next-wrap
 https://contactmusic.com,gizbot.com##.nextArticle
 https://cnet.com##.nextPreview
@@ -8093,6 +8094,7 @@ https://enacademic.com##.smm
 https://nation.com.pk##.sn
 https://pulse.com.gh,pulse.ng##.sn_published
 https://classicalite.com,fhm.com.ph,hankooktire.com,joins.com,kdramastars.com,parentherald.com,realtytoday.com,theinvestor.co.kr,yibada.com##.sns
+https://invenglobal.com##.sns-list
 https://econotimes.com##.snsBookmarkTop
 https://buyee.jp,kbs.co.kr##.sns_list
 https://nikkei.com##.snsicon-list
@@ -8832,7 +8834,7 @@ https://tribunesandtriumphs.org###outer-consent
 https://nbcnews.com###overaly_dy_message
 https://jukegames.com,n-mobile.net###overbox3
 https://testmy.net###overlay
-https://allestoringen.be,allestoringen.nl,allestörungen.at,allestörungen.ch,allestörungen.de,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.ca,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr###overlay.container
+https://allestoringen.be,allestoringen.nl,allest枚rungen.at,allest枚rungen.ch,allest枚rungen.de,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.ca,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr###overlay.container
 https://belkin.com###pagebanner
 https://pdfescape.com###pdfe_cmp
 https://themilitarystore.co.uk###pixelpop
@@ -8949,7 +8951,7 @@ https://sunweb.co.uk##.absolute-dialog
 https://greenfields.eu##.accept-alert
 https://akeebabackup.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 https://ticketmaster.ca##.agree-terms
-https://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
+https://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 https://espn.com##.alert--fixed
 https://goodmorningamerica.com,historicengland.org.uk##.alert-banner
 https://labour.org.uk##.alert-bar-footer
@@ -9251,6 +9253,7 @@ https://gigaom.com,gq.com.au,mta.tv,vocativ.com,zumba.com##.privacy-policy
 https://thenewdaily.com.au##.privacy-policy-slideup
 https://zmags.com##.privacyPrompt
 https://parliament.scot##.projects-takeover
+https://loggly.com##.promotion
 https://newscientist.com##.prompt
 https://mega.nz##.public-service-anouncement
 https://bbc.co.uk##.pulse-banner
@@ -10657,7 +10660,7 @@ https://apertura.com,cronista.com##.content-redes
 https://europafm.com,ondacero.es##.facebook
 https://starmedia.com##.fbk
 https://silicon.es##.follow
-https://tbnespaña.es,transfermarkt.es,transfermarkt.pt##.header-social
+https://tbnespa帽a.es,transfermarkt.es,transfermarkt.pt##.header-social
 https://abc.es##.herramientas
 https://economiahoy.mx##.ic-rs
 https://eluniversal.com.mx##.in-img
@@ -10948,7 +10951,7 @@ https://amtempo.de###popup
 https://ford-maiwald.de###popupDiv
 https://bka.de,bmjv.de,maurice-renck.de###privacy
 https://aqua-medic.de###privacy-info
-https://bafög.de###privacy-note
+https://baf枚g.de###privacy-note
 https://e-cooline.de###privacy-protection
 https://news5.de###privacyContainer
 https://thebarn.de###promotion-bar
@@ -11452,7 +11455,7 @@ https://mall.hu##.consent-panel
 https://1mobil.hu,akme.hu,bestmarkt.hu,bestsellers.hu,bevachip.hu,cct.hu,firstshop.hu,focuscamera.hu,gyorgyteabolt.hu,joautok.hu,karatekyokushin.hu,kiwipress.hu,logmein.hu,onlineszerszam.hu,rbx.hu,royalora.hu,szerszamoutlet.hu,work-force.hu,workforce.hu##.cookie
 https://novashop.hu##.cookies
 https://aig.hu##.copyright-text-header
-https://lexus.hu##.disclaimer
+https://lexus.hu,telegram.hr##.disclaimer
 https://weber-terranova.hu##.flash-info
 https://pcx.hu##.index > .cell
 https://roly.hu##.jq-toast-wrap
@@ -11818,7 +11821,7 @@ https://patronite.pl##.rodo-height
 https://bierhalle.pl,pbsbank.pl,scanner.com.pl##.rstboxes
 https://yogenfruz.pl##.shotimoo
 https://megawrzuta.pl##.slickModal
-https://80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszesprawy.eu,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,piekarniabialogon.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesył-energii.pl,radiowarszawa.com.pl,rauhanpuolustajat.org,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
+https://80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszesprawy.eu,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,piekarniabialogon.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesy艂-energii.pl,radiowarszawa.com.pl,rauhanpuolustajat.org,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
 https://spotlight.pl##.statement-container
 https://konsbud-hifi.com.pl##.sticky-footer
 https://szybkopraca.pl##.toast
@@ -11826,6 +11829,7 @@ https://tupperware.pl##.topRibbon
 https://miastograf.pl##.ui-dialog
 https://jmdi.pl##.ui-notificationbar
 https://miastograf.pl,samsonite.pl##.ui-widget-overlay
+https://optyczne.pl##.w3-modal
 https://szarakomorka.pl##.welcomebar
 https://hmb-gorzow.pl##.widgets-list
 https://elektrozysk.pl##div[style*="background:url(images/cookies_tlo.png)"]
@@ -12621,7 +12625,7 @@ https://stumbleupon.com#@#a[href^="https://www.stumbleupon.com/submit?"]
 https://pinterest.com#@#a[title="Pin it!"]
 https://flattr.com,tumblr.com#@#a[title="Tumblr"]
 https://livetv210.me#@#a[title="YouTube"]
-https://onlineradiobox.com#@#a[title="ВКонтакте"]
+https://onlineradiobox.com#@#a[title="袙袣芯薪褌邪泻褌械"]
 https://google.com,smugmug.com#@#button[title="Share"]
 https://digg.com#@#div[id^="digg-widget-"]
 https://flickr.net#@#img[alt="Flickr"]
@@ -15281,6 +15285,7 @@ http://dnaindia.com##.next-node
 http://guff.com##.next-prev
 http://businesstech.co.za,mybroadband.co.za##.next-previous-article
 http://filehippo.com,slate.com,straitstimes.com##.next-story
+http://shoko.fr##.next-up
 http://usatoday.com##.next-wrap
 http://contactmusic.com,gizbot.com##.nextArticle
 http://cnet.com##.nextPreview
@@ -18242,6 +18247,7 @@ http://enacademic.com##.smm
 http://nation.com.pk##.sn
 http://pulse.com.gh,pulse.ng##.sn_published
 http://classicalite.com,fhm.com.ph,hankooktire.com,joins.com,kdramastars.com,parentherald.com,realtytoday.com,theinvestor.co.kr,yibada.com##.sns
+http://invenglobal.com##.sns-list
 http://econotimes.com##.snsBookmarkTop
 http://buyee.jp,kbs.co.kr##.sns_list
 http://nikkei.com##.snsicon-list
@@ -18982,7 +18988,7 @@ http://tribunesandtriumphs.org###outer-consent
 http://nbcnews.com###overaly_dy_message
 http://jukegames.com,n-mobile.net###overbox3
 http://testmy.net###overlay
-http://allestoringen.be,allestoringen.nl,allestörungen.at,allestörungen.ch,allestörungen.de,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.ca,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr###overlay.container
+http://allestoringen.be,allestoringen.nl,allest枚rungen.at,allest枚rungen.ch,allest枚rungen.de,aussieoutages.com,canadianoutages.com,downdetctor.cl,downdetector.ae,downdetector.ca,downdetector.co.nz,downdetector.co.uk,downdetector.co.za,downdetector.com,downdetector.com.ar,downdetector.com.br,downdetector.dk,downdetector.es,downdetector.fi,downdetector.fr,downdetector.hk,downdetector.ie,downdetector.in,downdetector.it,downdetector.jp,downdetector.mx,downdetector.no,downdetector.pl,downdetector.pt,downdetector.ru,downdetector.se,downdetector.sg,downdetector.web.tr###overlay.container
 http://belkin.com###pagebanner
 http://pdfescape.com###pdfe_cmp
 http://themilitarystore.co.uk###pixelpop
@@ -19099,7 +19105,7 @@ http://sunweb.co.uk##.absolute-dialog
 http://greenfields.eu##.accept-alert
 http://akeebabackup.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 http://ticketmaster.ca##.agree-terms
-http://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
+http://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 http://espn.com##.alert--fixed
 http://goodmorningamerica.com,historicengland.org.uk##.alert-banner
 http://labour.org.uk##.alert-bar-footer
@@ -19401,6 +19407,7 @@ http://gigaom.com,gq.com.au,mta.tv,vocativ.com,zumba.com##.privacy-policy
 http://thenewdaily.com.au##.privacy-policy-slideup
 http://zmags.com##.privacyPrompt
 http://parliament.scot##.projects-takeover
+http://loggly.com##.promotion
 http://newscientist.com##.prompt
 http://mega.nz##.public-service-anouncement
 http://bbc.co.uk##.pulse-banner
@@ -20808,7 +20815,7 @@ http://apertura.com,cronista.com##.content-redes
 http://europafm.com,ondacero.es##.facebook
 http://starmedia.com##.fbk
 http://silicon.es##.follow
-http://tbnespaña.es,transfermarkt.es,transfermarkt.pt##.header-social
+http://tbnespa帽a.es,transfermarkt.es,transfermarkt.pt##.header-social
 http://abc.es##.herramientas
 http://economiahoy.mx##.ic-rs
 http://eluniversal.com.mx##.in-img
@@ -21099,7 +21106,7 @@ http://amtempo.de###popup
 http://ford-maiwald.de###popupDiv
 http://bka.de,bmjv.de,maurice-renck.de###privacy
 http://aqua-medic.de###privacy-info
-http://bafög.de###privacy-note
+http://baf枚g.de###privacy-note
 http://e-cooline.de###privacy-protection
 http://news5.de###privacyContainer
 http://thebarn.de###promotion-bar
@@ -21603,7 +21610,7 @@ http://mall.hu##.consent-panel
 http://1mobil.hu,akme.hu,bestmarkt.hu,bestsellers.hu,bevachip.hu,cct.hu,firstshop.hu,focuscamera.hu,gyorgyteabolt.hu,joautok.hu,karatekyokushin.hu,kiwipress.hu,logmein.hu,onlineszerszam.hu,rbx.hu,royalora.hu,szerszamoutlet.hu,work-force.hu,workforce.hu##.cookie
 http://novashop.hu##.cookies
 http://aig.hu##.copyright-text-header
-http://lexus.hu##.disclaimer
+http://lexus.hu,telegram.hr##.disclaimer
 http://weber-terranova.hu##.flash-info
 http://pcx.hu##.index > .cell
 http://roly.hu##.jq-toast-wrap
@@ -21969,7 +21976,7 @@ http://patronite.pl##.rodo-height
 http://bierhalle.pl,pbsbank.pl,scanner.com.pl##.rstboxes
 http://yogenfruz.pl##.shotimoo
 http://megawrzuta.pl##.slickModal
-http://80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszesprawy.eu,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,piekarniabialogon.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesył-energii.pl,radiowarszawa.com.pl,rauhanpuolustajat.org,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
+http://80dni.pl,ap-goal.pl,badaniaprenatalne.pl,bellpolska.com.pl,bezprawaanirusz.pl,businesstraveller.pl,careego.pl,centrum-terapii.pl,clubdelux.pt,codzienniefit.pl,ecochemia.pl,erif.pl,esportnow.pl,faktykonopne.pl,haft.com.pl,infokonsument.pl,instalnet.pl,intercyza-blog.pl,investjourney.pl,ironsky.pl,jasnastronamocy.info,jmdi.pl,kamienieogrodowe.com,karmopedia.pl,kartanauczycielablog.pl,konsalnet.pl,leszekbloch.pl,madameedith.com,mamysprawy.pl,maxbus.com.pl,mhtm.pl,naszesprawy.eu,naszwybir.pl,nowasprzedaz.pl,osiedlenatura.com.pl,pandrwal.pl,piekarniabialogon.pl,pierwsze-kroki.com,poloniawroclaw.pl,predathor.pl,programistanaswoim.pl,przedawnione.pl,przedsiebiorcza.com,przedszkolankowo.pl,przesy艂-energii.pl,radiowarszawa.com.pl,rauhanpuolustajat.org,sds-automatyka.pl,spkomandytowa.pl,stanprawnynieruchomosci.pl,studiosante.pl,szkoleniamaciolek.com,teatr-capitol.pl,towsrodku.pl,wars.pl,warunki-zabudowy.com.pl,wspolnotakrzyzasmolec.pl,yasumi.pl,zabieganamama.com,zatorland.pl,zsm.edu.pl,zuch.media##.spu-bg
 http://spotlight.pl##.statement-container
 http://konsbud-hifi.com.pl##.sticky-footer
 http://szybkopraca.pl##.toast
@@ -21977,6 +21984,7 @@ http://tupperware.pl##.topRibbon
 http://miastograf.pl##.ui-dialog
 http://jmdi.pl##.ui-notificationbar
 http://miastograf.pl,samsonite.pl##.ui-widget-overlay
+http://optyczne.pl##.w3-modal
 http://szarakomorka.pl##.welcomebar
 http://hmb-gorzow.pl##.widgets-list
 http://elektrozysk.pl##div[style*="background:url(images/cookies_tlo.png)"]
@@ -22772,7 +22780,7 @@ http://stumbleupon.com#@#a[href^="https://www.stumbleupon.com/submit?"]
 http://pinterest.com#@#a[title="Pin it!"]
 http://flattr.com,tumblr.com#@#a[title="Tumblr"]
 http://livetv210.me#@#a[title="YouTube"]
-http://onlineradiobox.com#@#a[title="ВКонтакте"]
+http://onlineradiobox.com#@#a[title="袙袣芯薪褌邪泻褌械"]
 http://google.com,smugmug.com#@#button[title="Share"]
 http://digg.com#@#div[id^="digg-widget-"]
 http://flickr.net#@#img[alt="Flickr"]
