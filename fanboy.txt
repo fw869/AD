@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c6IQ2KM3B+hdxWcsw93bvA
-! Version: 202004140741
+! Checksum: dKb23mBfgJmPOCa4C1EEiw
+! Version: 202004150941
 ! Title: Fanboy's Annoyance List
-! Last modified: 14 Apr 2020 07:41 UTC
+! Last modified: 15 Apr 2020 09:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9199,6 +9199,7 @@ https://brightree.com,cgtrader.com,cortesdecima.com,dialight.com,discordapp.com,
 https://anime2enjoy.com##.notice-board
 https://veritasbooksonline.com##.notice-wrap
 https://square-enix-games.com##.notice_Notices_29tRQ
+https://aquasana.com##.notice__banner
 https://3arena.ie,about.me,bertil.com,bethesda.net,brandalley.co.uk,cambridge.org,delfortgroup.com,dlink.com,eveningtelegraph.co.uk,fastcompany.com,gw2treasures.com,inc.com,lidl-ni.co.uk,lidl.co.uk,lidl.com.mt,lidl.ie,lindex.com,postimees.ee,preoday.com,princeofwales.gov.uk,puregym.com,redbet.com,sciencex.com,spreds.com,toluna.com,vialibri.net,wmeentertainment.com,ybs.co.uk,yola.com##.notification
 https://harvester.co.uk##.notification--notification
 https://brouwland.com##.notification-alert
@@ -19367,6 +19368,7 @@ http://brightree.com,cgtrader.com,cortesdecima.com,dialight.com,discordapp.com,d
 http://anime2enjoy.com##.notice-board
 http://veritasbooksonline.com##.notice-wrap
 http://square-enix-games.com##.notice_Notices_29tRQ
+http://aquasana.com##.notice__banner
 http://3arena.ie,about.me,bertil.com,bethesda.net,brandalley.co.uk,cambridge.org,delfortgroup.com,dlink.com,eveningtelegraph.co.uk,fastcompany.com,gw2treasures.com,inc.com,lidl-ni.co.uk,lidl.co.uk,lidl.com.mt,lidl.ie,lindex.com,postimees.ee,preoday.com,princeofwales.gov.uk,puregym.com,redbet.com,sciencex.com,spreds.com,toluna.com,vialibri.net,wmeentertainment.com,ybs.co.uk,yola.com##.notification
 http://harvester.co.uk##.notification--notification
 http://brouwland.com##.notification-alert
