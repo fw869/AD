@@ -1,5 +1,5 @@
 
-!version=202004111105
+!version=202004141434
 ||https://ereg.adobe.com
 ||https://hlrcv.stage.adobe.com
 ||https://lm.licenses.adobe.com
@@ -1542,6 +1542,9 @@
 ||https://m.qmlcdlo.cn
 ||https://mo.4k9b.cn
 ||https://qd.easylive.net
+||https://dcdvie.cn
+||https://t.srongee.top
+||https://xn--2qux23c9ziyrq.icu
 ||https://a.tribalfusion.com
 ||https://acuityplatform.com
 ||https://ad-delivery.net
@@ -8802,7 +8805,7 @@
 ||https://hp.smiler-ad.com
 ||https://static8.pmadx.com
 
-!version=202004111105
+!version=202004141434
 ||http://ereg.adobe.com
 ||http://hlrcv.stage.adobe.com
 ||http://lm.licenses.adobe.com
@@ -10345,6 +10348,9 @@
 ||http://m.qmlcdlo.cn
 ||http://mo.4k9b.cn
 ||http://qd.easylive.net
+||http://dcdvie.cn
+||http://t.srongee.top
+||http://xn--2qux23c9ziyrq.icu
 ||http://a.tribalfusion.com
 ||http://acuityplatform.com
 ||http://ad-delivery.net

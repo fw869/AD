@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cCi5NB11A3xGg5oJPW3DNg
-! Version: 202004170733
+! Checksum: +qH6BgjBDqzMGwXP59N/hQ
+! Version: 202004180953
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://0082tv.net^$third-party
@@ -1902,6 +1902,7 @@
 ||https://chinaz.com/news.js
 ||https://chinaz.com/newshome/
 ||https://chinaz.com/sc_images/sc_font.js
+||https://chinaz.com/section/
 ||https://chinaz.com/tool_img/alexa_a.js
 ||https://chinaz.com/tools_img/
 ||https://chinaz.com/zt/hanyi/images/sanji.jpg
@@ -4766,7 +4767,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://chinaz.com/section/
+||https://2d4f.com/love/
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -4873,8 +4874,8 @@
 ||https://ttzw.tv/tz/h.js
 ||https://ttzw.tv/tz/true.js
 ||https://txshuku.com/js/
-||https://vodtw.com/js/a1.
-||https://vodtw.com^*xhtml
+||https://vodtw.la/js/a1.
+||https://vodtw.la^*xhtml
 ||https://xbiqugecc.com/bcc/
 ||https://xqxx520.com^$third-party
 ||https://xstt5.com/skin/v3/js/zhang.
@@ -9485,6 +9486,7 @@
 ||http://chinaz.com/news.js
 ||http://chinaz.com/newshome/
 ||http://chinaz.com/sc_images/sc_font.js
+||http://chinaz.com/section/
 ||http://chinaz.com/tool_img/alexa_a.js
 ||http://chinaz.com/tools_img/
 ||http://chinaz.com/zt/hanyi/images/sanji.jpg
@@ -12712,7 +12714,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://chinaz.com/section/
+||http://2d4f.com/love/
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a25.com|xin99r3.com|xin99r4.com
 ||http://sinaimg.cn^$domain=99a25.com|xin99r3.com|xin99r4.com
@@ -13518,7 +13520,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://cryptaloot.pro^
-||http://bkzisok.cn^
+||http://abie25.top^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13847,6 +13849,7 @@
 ||http://bjqftcty.com^
 ||http://bjygfd.com^
 ||http://bjzcbx.com^
+||http://bkzisok.cn^
 ||http://blfyquz.cn^
 ||http://bmfwwz.top^
 ||http://bmgan.com^
@@ -14237,6 +14240,7 @@
 ||http://glpen08.com^
 ||http://glvej.com^
 ||http://gmxyorg.cn^
+||http://gneusqa.cn^
 ||http://gnmbd.top^
 ||http://gnncc.cc^
 ||http://gobali.cn^
@@ -15214,8 +15218,8 @@
 ||http://vkuay.com^
 ||http://vmiua.com^
 ||http://vnanf.com^
-||http://vodtw.com/js/a1.
-||http://vodtw.com^*xhtml
+||http://vodtw.la/js/a1.
+||http://vodtw.la^*xhtml
 ||http://vouky.com^
 ||http://vsxet.com^
 ||http://vvnna.com^
@@ -16232,11 +16236,8 @@
 ||http://wrating.com^$third-party
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://tvsou.com##.sogou-temp-hidden
-https://tvsou.com##.sogou-temp-show
-https://tvsou.com##.story_ad_content_footer
-https://tvsou.com##.story_ad_android
-https://tvsou.com##.story_ad_ios
+https://ilvruan.com##A[href^="http"]:not([href*="ilvruan"]) > IMG
+https://got002.com##.ad-box
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -18776,10 +18777,10 @@ https://owyb1688.com##.gray-show
 https://bioon.com##.grid_6
 https://veryhuo.com##.gs
 https://veryhuo.com##.gs2
-https://ddooo.com##.gs_down
 https://wanyx.com##.gs_down_common
 https://sci-hub.org.cn##.gs_r[data-cid=""]
 https://sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
+https://ddooo.com##.gsa_down
 https://32r.com##.gsabtn
 https://ddooo.com,xue51.com##.gsbtn
 https://yxdown.com##.gsdown
@@ -19718,7 +19719,7 @@ https://uuu9.com##.sindex_ad1
 https://2000fun.com##.single-box
 https://fujieace.com##.single-goods
 https://kocpc.com.tw##.single_ads
-https://ilvruan.com##.site-ab
+https://ilvruan.com##.site-AG
 https://i.maxthon.cn##.site-ad-container
 https://stockstar.com##.siteAd_l
 https://stockstar.com##.siteAd_r
@@ -19745,6 +19746,8 @@ https://ant.design##.snd-ad
 https://hao123.com##.soft-ad-banner
 https://66huacai.com##.soft-downUrl-list.underline
 https://oschina.net##.soft_detai_above_ad
+https://tvsou.com##.sogou-temp-hidden
+https://tvsou.com##.sogou-temp-show
 https://sohu.com##.sogouService
 https://5nd.com##.songAds
 https://jq.131458.com##.soso_02
@@ -19773,6 +19776,9 @@ https://acwifi.net##.ssr
 https://eastday.com##.ssy_left
 https://eastday.com##.ssy_right
 https://3g.cn##.statistic[href^="https://jumpluna.58.com/"]
+https://tvsou.com##.story_ad_android
+https://tvsou.com##.story_ad_content_footer
+https://tvsou.com##.story_ad_ios
 https://sonimei.cn##.style01
 https://sonimei.cn##.style03
 https://guofs.com##.style2
@@ -20783,6 +20789,7 @@ https://housefindeasy.com##div[style="height:90px"]
 https://pythontab.com##div[style="margin-bottom: 4px;"]
 https://bbs.my0511.com##div[style="margin-left:auto;margin-right:auto;text-align:center;margin-top:5px;"]
 https://yn-dove.cn##div[style="margin-top: 10px; padding: 10px; "]
+https://jdbbs.com##div[style="margin: 0 auto 10px; width: 1000px;"]
 https://108.62.192.122,23.81.209.214,plus28.com##div[style="margin: auto;width: 960px;margin-bottom: 10px;"]
 https://iplaysoft.com##div[style="margin:-10px 0 0 0;overflow:hidden"]
 https://lanyes.org##div[style="margin:0 auto 10px;height:76px;overflow:hidden"]
@@ -22170,11 +22177,8 @@ https://weibo.com###Pl_Core_P7MultiPicPlay__7
 https://weibo.com##.apps_PCD_reco_detail_right
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://tvsou.com##.sogou-temp-hidden
-http://tvsou.com##.sogou-temp-show
-http://tvsou.com##.story_ad_content_footer
-http://tvsou.com##.story_ad_android
-http://tvsou.com##.story_ad_ios
+http://ilvruan.com##A[href^="http"]:not([href*="ilvruan"]) > IMG
+http://got002.com##.ad-box
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -24714,10 +24718,10 @@ http://owyb1688.com##.gray-show
 http://bioon.com##.grid_6
 http://veryhuo.com##.gs
 http://veryhuo.com##.gs2
-http://ddooo.com##.gs_down
 http://wanyx.com##.gs_down_common
 http://sci-hub.org.cn##.gs_r[data-cid=""]
 http://sci-hub.org.cn##.gs_red[style="color:#EB7F00"]
+http://ddooo.com##.gsa_down
 http://32r.com##.gsabtn
 http://ddooo.com,xue51.com##.gsbtn
 http://yxdown.com##.gsdown
@@ -25656,7 +25660,7 @@ http://uuu9.com##.sindex_ad1
 http://2000fun.com##.single-box
 http://fujieace.com##.single-goods
 http://kocpc.com.tw##.single_ads
-http://ilvruan.com##.site-ab
+http://ilvruan.com##.site-AG
 http://i.maxthon.cn##.site-ad-container
 http://stockstar.com##.siteAd_l
 http://stockstar.com##.siteAd_r
@@ -25683,6 +25687,8 @@ http://ant.design##.snd-ad
 http://hao123.com##.soft-ad-banner
 http://66huacai.com##.soft-downUrl-list.underline
 http://oschina.net##.soft_detai_above_ad
+http://tvsou.com##.sogou-temp-hidden
+http://tvsou.com##.sogou-temp-show
 http://sohu.com##.sogouService
 http://5nd.com##.songAds
 http://jq.131458.com##.soso_02
@@ -25711,6 +25717,9 @@ http://acwifi.net##.ssr
 http://eastday.com##.ssy_left
 http://eastday.com##.ssy_right
 http://3g.cn##.statistic[href^="https://jumpluna.58.com/"]
+http://tvsou.com##.story_ad_android
+http://tvsou.com##.story_ad_content_footer
+http://tvsou.com##.story_ad_ios
 http://sonimei.cn##.style01
 http://sonimei.cn##.style03
 http://guofs.com##.style2
@@ -26721,6 +26730,7 @@ http://housefindeasy.com##div[style="height:90px"]
 http://pythontab.com##div[style="margin-bottom: 4px;"]
 http://bbs.my0511.com##div[style="margin-left:auto;margin-right:auto;text-align:center;margin-top:5px;"]
 http://yn-dove.cn##div[style="margin-top: 10px; padding: 10px; "]
+http://jdbbs.com##div[style="margin: 0 auto 10px; width: 1000px;"]
 http://108.62.192.122,23.81.209.214,plus28.com##div[style="margin: auto;width: 960px;margin-bottom: 10px;"]
 http://iplaysoft.com##div[style="margin:-10px 0 0 0;overflow:hidden"]
 http://lanyes.org##div[style="margin:0 auto 10px;height:76px;overflow:hidden"]
