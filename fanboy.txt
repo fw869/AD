@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Cq5lqZ0TmQLaU3DUMSJ+Bg
-! Version: 202004180951
+! Checksum: 1faf4RQ1nSgmVcFl+3V4Kw
+! Version: 202004201851
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Apr 2020 09:51 UTC
+! Last modified: 20 Apr 2020 18:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -43,6 +43,7 @@
 ||https://appboy.eu^$third-party
 ||https://apture.com^$script,third-party
 ||https://assets.simplifydigital.co.uk^$third-party
+||https://asterilivestream.com^$third-party
 ||https://ayc0zsm69431gfebd.xyz^$third-party
 ||https://badges.alltop.com^$third-party
 ||https://badgeville.com^$third-party
@@ -1089,6 +1090,7 @@
 ||https://jacquelinewilson.co.uk/style/cookies.css$stylesheet
 ||https://jimmychoo.com^*/first-time-visitor-
 ||https://mad-daily.com^*/cp-module-
+||https://masaltos.com/js/cookies-
 ||https://ncaa.com^*/ncaa_consent.js
 ||https://omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js
 ||https://onlive.co.uk/account/cookie_notice
@@ -1299,6 +1301,7 @@
 ||https://cmp.internetstandard.pl^$script
 ||https://cmp.pcworld.pl^$script
 ||https://gry-online.pl/js/cookie2.js
+||https://interia.pl/rodo-iframe
 ||https://lubuskie.pl/themes/src/cookie.js
 ||https://niewygodne.info.pl/pierwsza.htm
 ||https://nowehoryzonty.pl/js/cookies.js
@@ -1340,6 +1343,7 @@
 ||http://appboy.eu^$third-party
 ||http://apture.com^$script,third-party
 ||http://assets.simplifydigital.co.uk^$third-party
+||http://asterilivestream.com^$third-party
 ||http://ayc0zsm69431gfebd.xyz^$third-party
 ||http://badges.alltop.com^$third-party
 ||http://badgeville.com^$third-party
@@ -2435,6 +2439,7 @@
 ||http://jacquelinewilson.co.uk/style/cookies.css$stylesheet
 ||http://jimmychoo.com^*/first-time-visitor-
 ||http://mad-daily.com^*/cp-module-
+||http://masaltos.com/js/cookies-
 ||http://mms.cmpsky.com^
 ||http://ncaa.com^*/ncaa_consent.js
 ||http://omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js
@@ -2672,6 +2677,7 @@
 ||http://cookies.fakt.pl^
 ||http://cookies.forbes.pl^
 ||http://gry-online.pl/js/cookie2.js
+||http://interia.pl/rodo-iframe
 ||http://lubuskie.pl/themes/src/cookie.js
 ||http://niewygodne.info.pl/pierwsza.htm
 ||http://nowehoryzonty.pl/js/cookies.js
@@ -6204,6 +6210,7 @@ https://tubefilter.com###text-24
 https://therightscoop.com###text-25
 https://theshaderoom.com###text-28
 https://franklincounty-news.com###text-3
+https://ghacks.net###text-36
 https://propertywheel.co.za###text-37
 https://fightthenewdrug.org###text-39
 https://chicagoreporter.com,mauritiustimes.com###text-4
@@ -6461,6 +6468,8 @@ https://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.
 https://pressherald.com,undark.org##.gform_wrapper
 https://ghacks.net##.ghacks_ad_code
 https://independent.co.uk,standard.co.uk##.gigya-signup
+https://usatoday.com##.gnt_m_nls
+https://usatoday.com##.gnt_m_th_em
 https://aubizbuysell.com.au,nzbizbuysell.co.nz,nzcommercial.co.nz,nzfranchises.co.nz##.green-box-fern
 https://wonkette.com##.grwf2-wrapper
 https://globalvoices.org##.gv-mailchimp-form-container
@@ -6880,6 +6889,7 @@ https://legacy.com##div[class^="ArticleBody__BodyDescription_"] > p[style="text-
 https://pri.org##div[class^="CtaMessage_"]
 https://nytimes.com##div[class^="Dock-dock-"]
 https://nytimes.com##div[class^="InlineMessage-inline-"]
+https://inc.com##div[class^="NewsLetterBar"]
 https://axios.com##div[class^="StreamCap__promoContainer"]
 https://euronews.com##div[class^="mailmunch-"]
 https://thewirecutter.com##div[class^="newsletter_banner"]
@@ -7812,6 +7822,7 @@ https://avaaz.org##.global-footer-connect
 https://linkis.com##.global-modal-popup
 https://gloucesterrugby.co.uk##.gloucester_container_home_middle_social
 https://click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com##.gmg-vf
+https://usatoday.com##.gnt_ss
 https://gamepressure.com##.go-face
 https://gamepressure.com##.go-plus
 https://good.is##.good-popup
@@ -8971,7 +8982,7 @@ https://reddit.com##._3q-XSJ2vokDQrvdG6mR__k
 https://thewirecutter.com##._5ce4f1c1
 https://sunweb.co.uk##.absolute-dialog
 https://greenfields.eu##.accept-alert
-https://akeebabackup.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
+https://akeebabackup.com,displays.agneovo.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 https://ticketmaster.ca##.agree-terms
 https://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 https://espn.com##.alert--fixed
@@ -9001,7 +9012,6 @@ https://argaam.com##.argaam-policy
 https://leo.org##.as-oil
 https://businessinsider.com##.as-oil-content-overlay
 https://which.co.uk##.b_g
-https://co-operative.coop,couchsurfing.com,fullscreen.com,haymarketbooks.org,usatoday.com##.banner
 https://uber.com##.banner--bottom
 https://makeprintable.com##.banner-hints
 https://23andme.com,tunnelbear.com##.banner-wrap
@@ -9056,6 +9066,7 @@ https://austrian.com,austrianairlines.ag,austriantechnik.at##.cop
 https://semanticscholar.org##.copyright-banner
 https://bandcamp.com##.corp-banners
 https://skygroup.sky##.corporate-notice-banner
+https://aoc.com##.country-popup
 https://hik-connect.com##.coverShow
 https://videojug.com##.cp-alert-message
 https://mad-daily.com##.cp-info-bar-container
@@ -9391,6 +9402,7 @@ https://transamerica.com##div.bannerAlert--isHidden
 https://yahoo.com##div.js-applet-view-container-main > div.fixed-win[style^="background:"]
 https://tacobell.co.uk##div[am-cookie]
 https://patreon.com##div[aria-describedby^="BannerContent"]
+https://inc.com##div[class*="privacyPolicyPopup"]
 https://pri.org##div[class^="CtaMessage_"]
 https://similarsites.com##div[class^="PrivacyNotification"]
 https://epidemicsound.com##div[class^="___Warnings"]
@@ -10634,6 +10646,7 @@ https://europe1.fr,lemonde.fr##.partage
 https://jeuxvideo.fr,jeuxvideopc.com##.pictos
 https://leparisien.fr##.plusRecommande
 https://madagascar-tribune.com##.rezo_sociaux
+https://bledina.com##.rs-icon
 https://autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr,valeursactuelles.com##.share
 https://rtl.fr##.shared-logo
 https://fracademic.com##.smm
@@ -11079,7 +11092,7 @@ https://telekom.de##.message-bar
 https://fc.de##.mod-alert
 https://csu.de##.mod-layer
 https://zurich.de##.mod-notification-teaser
-https://felix1.de,krone.at##.modal-backdrop
+https://felix1.de##.modal-backdrop
 https://moon-power.com##.moon2-statisticsOptBox
 https://roland-schuhe.de##.newsflash
 https://kvvks.de,messe-kassel.de##.note
@@ -11195,6 +11208,7 @@ https://drweb.fr##.SHOWIT-msg_showed
 https://acall.fr,domaine-errekalde.fr,sophrologierelaxation.fr##._2fUqY
 https://camara.net##.activebar-container
 https://6tzen.fr,clinique-veterinaire.fr##.alert
+https://6play.fr##.app__banner
 https://scooter-system.fr##.avertissement
 https://potagercity.fr##.banner
 https://utopya.fr##.banner-header
@@ -12370,7 +12384,7 @@ https://flattr.com#@#.icon-youtube
 https://ndtv.com#@#.icon_gplus
 https://community.imgur.com#@#.icons
 https://upworthy.com#@#.image-share
-https://24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,thisismoney.co.uk#@#.img-share
+https://24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,stationgossip.com,thisismoney.co.uk#@#.img-share
 https://fandom.com#@#.is-social
 https://thenewamerican.com#@#.itemSocialSharing
 https://sap.com#@#.j-social-actions
@@ -12409,7 +12423,7 @@ https://pinterest.com#@#.pinterest-wrapper
 https://needlenthread.com#@#.pinterest1
 https://pinterest.com#@#.pinterestComponentShare
 https://marieclaire.ru#@#.pinterestShare
-https://google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
+https://devrant.com,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 https://privatecore.com#@#.post-fb
 https://23-59.com.ua,dietetycy.org.pl,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
 https://imgur.com#@#.post-share-panel
@@ -12439,7 +12453,7 @@ https://greatbritishchefs.com#@#.share-header
 https://howtogeek.com#@#.share-heading
 https://ida2at.com#@#.share-holder
 https://app.sococo.com,iherb.com,vimeo.com#@#.share-icon
-https://golem.de,tumblr.com#@#.share-item
+https://1ab.ru,golem.de,tumblr.com#@#.share-item
 https://vimeo.com#@#.share-label
 https://recite.com#@#.share-left
 https://askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pinksluts.com,pomponik.pl,sale.aliexpress.com,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
@@ -12713,6 +12727,7 @@ https://n26.com#@##gdpr-notice
 https://pekao.com.pl#@##gdpr-popup
 https://mirjan24.pl#@##gdpr:not(body):not(html)
 https://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
+https://krone.at#@##krn-privacy-center
 https://bosch-mobility-solutions.com#@##m-cookie-overlay
 https://17track.net#@##modal-gdpr
 https://thesocialmedwork.com#@##notice-cookie-block
@@ -16381,6 +16396,7 @@ http://tubefilter.com###text-24
 http://therightscoop.com###text-25
 http://theshaderoom.com###text-28
 http://franklincounty-news.com###text-3
+http://ghacks.net###text-36
 http://propertywheel.co.za###text-37
 http://fightthenewdrug.org###text-39
 http://chicagoreporter.com,mauritiustimes.com###text-4
@@ -16638,6 +16654,8 @@ http://catholicherald.co.uk,kusc.org,motoring.com.au,threatpost.com,whoprofits.o
 http://pressherald.com,undark.org##.gform_wrapper
 http://ghacks.net##.ghacks_ad_code
 http://independent.co.uk,standard.co.uk##.gigya-signup
+http://usatoday.com##.gnt_m_nls
+http://usatoday.com##.gnt_m_th_em
 http://aubizbuysell.com.au,nzbizbuysell.co.nz,nzcommercial.co.nz,nzfranchises.co.nz##.green-box-fern
 http://wonkette.com##.grwf2-wrapper
 http://globalvoices.org##.gv-mailchimp-form-container
@@ -17057,6 +17075,7 @@ http://legacy.com##div[class^="ArticleBody__BodyDescription_"] > p[style="text-a
 http://pri.org##div[class^="CtaMessage_"]
 http://nytimes.com##div[class^="Dock-dock-"]
 http://nytimes.com##div[class^="InlineMessage-inline-"]
+http://inc.com##div[class^="NewsLetterBar"]
 http://axios.com##div[class^="StreamCap__promoContainer"]
 http://euronews.com##div[class^="mailmunch-"]
 http://thewirecutter.com##div[class^="newsletter_banner"]
@@ -17989,6 +18008,7 @@ http://avaaz.org##.global-footer-connect
 http://linkis.com##.global-modal-popup
 http://gloucesterrugby.co.uk##.gloucester_container_home_middle_social
 http://click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com##.gmg-vf
+http://usatoday.com##.gnt_ss
 http://gamepressure.com##.go-face
 http://gamepressure.com##.go-plus
 http://good.is##.good-popup
@@ -19149,7 +19169,7 @@ http://reddit.com##._3q-XSJ2vokDQrvdG6mR__k
 http://thewirecutter.com##._5ce4f1c1
 http://sunweb.co.uk##.absolute-dialog
 http://greenfields.eu##.accept-alert
-http://akeebabackup.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
+http://akeebabackup.com,displays.agneovo.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 http://ticketmaster.ca##.agree-terms
 http://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 http://espn.com##.alert--fixed
@@ -19179,7 +19199,6 @@ http://argaam.com##.argaam-policy
 http://leo.org##.as-oil
 http://businessinsider.com##.as-oil-content-overlay
 http://which.co.uk##.b_g
-http://co-operative.coop,couchsurfing.com,fullscreen.com,haymarketbooks.org,usatoday.com##.banner
 http://uber.com##.banner--bottom
 http://makeprintable.com##.banner-hints
 http://23andme.com,tunnelbear.com##.banner-wrap
@@ -19234,6 +19253,7 @@ http://austrian.com,austrianairlines.ag,austriantechnik.at##.cop
 http://semanticscholar.org##.copyright-banner
 http://bandcamp.com##.corp-banners
 http://skygroup.sky##.corporate-notice-banner
+http://aoc.com##.country-popup
 http://hik-connect.com##.coverShow
 http://videojug.com##.cp-alert-message
 http://mad-daily.com##.cp-info-bar-container
@@ -19569,6 +19589,7 @@ http://transamerica.com##div.bannerAlert--isHidden
 http://yahoo.com##div.js-applet-view-container-main > div.fixed-win[style^="background:"]
 http://tacobell.co.uk##div[am-cookie]
 http://patreon.com##div[aria-describedby^="BannerContent"]
+http://inc.com##div[class*="privacyPolicyPopup"]
 http://pri.org##div[class^="CtaMessage_"]
 http://similarsites.com##div[class^="PrivacyNotification"]
 http://epidemicsound.com##div[class^="___Warnings"]
@@ -20813,6 +20834,7 @@ http://europe1.fr,lemonde.fr##.partage
 http://jeuxvideo.fr,jeuxvideopc.com##.pictos
 http://leparisien.fr##.plusRecommande
 http://madagascar-tribune.com##.rezo_sociaux
+http://bledina.com##.rs-icon
 http://autoline-eu.fr,autoline.be,autoline.lu,buzzmoica.fr,diningcity.be,ecoaustral.com,epochtimes.fr,franceinter.fr,francetvinfo.fr,gamekult.com,gettyimages.be,gettyimages.fr,la-croix.com,landrover.be,landrover.ch,landrover.fr,valeursactuelles.com##.share
 http://rtl.fr##.shared-logo
 http://fracademic.com##.smm
@@ -21258,7 +21280,7 @@ http://telekom.de##.message-bar
 http://fc.de##.mod-alert
 http://csu.de##.mod-layer
 http://zurich.de##.mod-notification-teaser
-http://felix1.de,krone.at##.modal-backdrop
+http://felix1.de##.modal-backdrop
 http://moon-power.com##.moon2-statisticsOptBox
 http://roland-schuhe.de##.newsflash
 http://kvvks.de,messe-kassel.de##.note
@@ -21374,6 +21396,7 @@ http://drweb.fr##.SHOWIT-msg_showed
 http://acall.fr,domaine-errekalde.fr,sophrologierelaxation.fr##._2fUqY
 http://camara.net##.activebar-container
 http://6tzen.fr,clinique-veterinaire.fr##.alert
+http://6play.fr##.app__banner
 http://scooter-system.fr##.avertissement
 http://potagercity.fr##.banner
 http://utopya.fr##.banner-header
@@ -22549,7 +22572,7 @@ http://flattr.com#@#.icon-youtube
 http://ndtv.com#@#.icon_gplus
 http://community.imgur.com#@#.icons
 http://upworthy.com#@#.image-share
-http://24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,thisismoney.co.uk#@#.img-share
+http://24h.com.vn,dailymail.co.uk,eva.vn,mogaznews.com,stationgossip.com,thisismoney.co.uk#@#.img-share
 http://fandom.com#@#.is-social
 http://thenewamerican.com#@#.itemSocialSharing
 http://sap.com#@#.j-social-actions
@@ -22588,7 +22611,7 @@ http://pinterest.com#@#.pinterest-wrapper
 http://needlenthread.com#@#.pinterest1
 http://pinterest.com#@#.pinterestComponentShare
 http://marieclaire.ru#@#.pinterestShare
-http://google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
+http://devrant.com,google.at,google.be,google.ca,google.ch,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.th,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.hk,google.com.mx,google.com.tr,google.com.ua,google.cz,google.dk,google.es,google.fi,google.fr,google.hu,google.it,google.nl,google.pl,google.ro,google.ru,google.se,google.sk#@#.plusone
 http://privatecore.com#@#.post-fb
 http://23-59.com.ua,dietetycy.org.pl,kliknijwzdrowie.pl,maze.fr,pokoleniesmart.pl,tidssonen.no,truepundit.com,velodaily.ru#@#.post-share-container
 http://imgur.com#@#.post-share-panel
@@ -22618,7 +22641,7 @@ http://greatbritishchefs.com#@#.share-header
 http://howtogeek.com#@#.share-heading
 http://ida2at.com#@#.share-holder
 http://app.sococo.com,iherb.com,vimeo.com#@#.share-icon
-http://golem.de,tumblr.com#@#.share-item
+http://1ab.ru,golem.de,tumblr.com#@#.share-item
 http://vimeo.com#@#.share-label
 http://recite.com#@#.share-left
 http://askubuntu.com,baidu.com,broadcast.app.net,imgur.com,kuechenstud.io,logbuch-netzpolitik.de,mammothhq.com,mathoverflow.net,minkorrekt.de,openstreetmap.org,pinksluts.com,pomponik.pl,sale.aliexpress.com,serverfault.com,stackapps.com,stackexchange.com,stackoverflow.com,superuser.com,yadi.sk,yandex.com,yandex.com.tr,yandex.ru,yandex.ua#@#.share-link
@@ -22892,6 +22915,7 @@ http://n26.com#@##gdpr-notice
 http://pekao.com.pl#@##gdpr-popup
 http://mirjan24.pl#@##gdpr:not(body):not(html)
 http://airfrance.ae,airfrance.am,airfrance.at,airfrance.be,airfrance.bf,airfrance.bg,airfrance.bj,airfrance.ca,airfrance.cd,airfrance.cg,airfrance.ch,airfrance.cl,airfrance.cm,airfrance.co.ao,airfrance.co.il,airfrance.co.jp,airfrance.co.kr,airfrance.co.th,airfrance.co.uk,airfrance.co.za,airfrance.com,airfrance.com.ar,airfrance.com.au,airfrance.com.br,airfrance.com.cn,airfrance.com.co,airfrance.com.do,airfrance.com.eg,airfrance.com.hk,airfrance.com.jo,airfrance.com.kh,airfrance.com.lb,airfrance.com.mx,airfrance.com.tr,airfrance.com.tw,airfrance.com.uy,airfrance.cz,airfrance.de,airfrance.dj,airfrance.dk,airfrance.dz,airfrance.es,airfrance.fi,airfrance.fr,airfrance.ga,airfrance.gf,airfrance.gp,airfrance.hr,airfrance.ht,airfrance.hu,airfrance.id,airfrance.ie,airfrance.in,airfrance.it,airfrance.lu,airfrance.ma,airfrance.mg,airfrance.ml,airfrance.mq,airfrance.mu,airfrance.my,airfrance.nc,airfrance.ne,airfrance.ng,airfrance.nl,airfrance.no,airfrance.pa,airfrance.pe,airfrance.pf,airfrance.pl,airfrance.pt,airfrance.re,airfrance.ro,airfrance.rs,airfrance.ru,airfrance.sa,airfrance.se,airfrance.sg,airfrance.si,airfrance.sk,airfrance.sn,airfrance.tg,airfrance.tn,airfrance.ua,airfrance.us,airfrance.vn#@##gdpr_popin
+http://krone.at#@##krn-privacy-center
 http://bosch-mobility-solutions.com#@##m-cookie-overlay
 http://17track.net#@##modal-gdpr
 http://thesocialmedwork.com#@##notice-cookie-block
