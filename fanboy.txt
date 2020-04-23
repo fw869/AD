@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1faf4RQ1nSgmVcFl+3V4Kw
-! Version: 202004201851
+! Checksum: CvqhfJPHSuSn4bEeSnPePw
+! Version: 202004230941
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Apr 2020 18:51 UTC
+! Last modified: 23 Apr 2020 09:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1099,7 +1099,6 @@
 ||https://purevpn.com/loadGdprView
 ||https://windguru.cz/forms/consent.php
 ||https://yimg.com^*/guce.js
-||https://inn.co.il/push.js
 ||https://pusha.se^$third-party
 ||https://linker.hr^$third-party
 ||https://aklamator.com^$third-party
@@ -1212,6 +1211,7 @@
 ||https://newsis.com^*/btn_top.
 ||https://radioseoul1650.com^*/nav_top.
 ||https://sedaily.com^*/btn_top_
+||https://inn.co.il/push.js
 ||https://probook.bg/like?$third-party
 ||https://draugiem.lv/business/ext/fans/$third-party
 ||https://draugiem.lv/business/ext/follow/$third-party
@@ -2452,7 +2452,6 @@
 ||http://sp.knowyourmeme.com^
 ||http://windguru.cz/forms/consent.php
 ||http://yimg.com^*/guce.js
-||http://inn.co.il/push.js
 ||http://push.cnnindonesia.com^
 ||http://pusha.se^$third-party
 ||http://ds-recommender.styria.hr^
@@ -2572,6 +2571,7 @@
 ||http://newsis.com^*/btn_top.
 ||http://radioseoul1650.com^*/nav_top.
 ||http://sedaily.com^*/btn_top_
+||http://inn.co.il/push.js
 ||http://probook.bg/like?$third-party
 ||http://draugiem.lv/business/ext/fans/$third-party
 ||http://draugiem.lv/business/ext/follow/$third-party
